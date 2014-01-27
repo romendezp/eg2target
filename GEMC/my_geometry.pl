@@ -1,4 +1,5 @@
 #!/usr/bin/perl -w
+# EG2 Geometry adapted from GEANT to GEMC by Rodrigo Mendez
 
 use strict;
 
